@@ -1,0 +1,292 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1692794826381149, "dur":1809, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692794826382975, "dur":162, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692794826383194, "dur":348, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692794826383686, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1692794826383830, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1692794826384555, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1692794826384715, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1692794826385671, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1692794826386769, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1692794826387323, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1692794826383574, "dur":5427, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692794826389003, "dur":85157, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692794826474161, "dur":141, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692794826474302, "dur":56, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692794826474566, "dur":2046, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1692794826384083, "dur":4928, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826389013, "dur":3101, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826392180, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1692794826392285, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1692794826392786, "dur":156, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Kuliah\\On Going\\Semester 7\\Agate Academy\\Matrikulasi\\Programmer\\Pinball\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826392947, "dur":202, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Kuliah\\On Going\\Semester 7\\Agate Academy\\Matrikulasi\\Programmer\\Pinball\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826393151, "dur":391, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Kuliah\\On Going\\Semester 7\\Agate Academy\\Matrikulasi\\Programmer\\Pinball\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826393550, "dur":629, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Kuliah\\On Going\\Semester 7\\Agate Academy\\Matrikulasi\\Programmer\\Pinball\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826394182, "dur":813, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Kuliah\\On Going\\Semester 7\\Agate Academy\\Matrikulasi\\Programmer\\Pinball\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826394999, "dur":148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Kuliah\\On Going\\Semester 7\\Agate Academy\\Matrikulasi\\Programmer\\Pinball\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826395151, "dur":519, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Kuliah\\On Going\\Semester 7\\Agate Academy\\Matrikulasi\\Programmer\\Pinball\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826392178, "dur":3737, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1692794826398164, "dur":301, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826396083, "dur":2464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1692794826398552, "dur":867, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity Editur\\2022.3.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1692794826398549, "dur":872, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1692794826399422, "dur":707, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826400175, "dur":2486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1692794826402708, "dur":146, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826402910, "dur":1375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826405433, "dur":2013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826407485, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826407672, "dur":151, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826407895, "dur":1765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826409767, "dur":4592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826414409, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826414526, "dur":1518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826416081, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826416172, "dur":1320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826417531, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826417692, "dur":1388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826419112, "dur":298, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826419426, "dur":513, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826419948, "dur":1990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826421987, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826422089, "dur":1871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826424013, "dur":469, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826424527, "dur":1133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826425805, "dur":1061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826426957, "dur":2924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826429921, "dur":267, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826430236, "dur":1065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826431332, "dur":170, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1692794826431548, "dur":2245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826433893, "dur":2322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1692794826436321, "dur":4282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":1, "ts":1692794826440692, "dur":2886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1692794826443607, "dur":30466, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692794826384266, "dur":4773, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692794826389042, "dur":462, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692794826389505, "dur":2616, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692794826393150, "dur":6644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1692794826400097, "dur":11133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692794826411350, "dur":2064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692794826413529, "dur":2560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692794826416129, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692794826416296, "dur":2030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692794826418363, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692794826418458, "dur":1583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692794826420111, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692794826420287, "dur":1792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692794826422217, "dur":2819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692794826425130, "dur":1175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692794826426341, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692794826426713, "dur":3795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692794826430827, "dur":2382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692794826433247, "dur":450, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692794826433735, "dur":1963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692794826435806, "dur":1123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1692794826437018, "dur":1182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1692794826438286, "dur":2853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1692794826442958, "dur":204, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692794826441939, "dur":1241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1692794826444622, "dur":138, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1692794826443296, "dur":1602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1692794826444932, "dur":29163, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692794826384197, "dur":4834, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692794826389034, "dur":431, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692794826389465, "dur":131, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692794826389596, "dur":2522, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692794826392626, "dur":4575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1692794826397248, "dur":218, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692794826397628, "dur":1616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1692794826399305, "dur":187, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692794826400113, "dur":1047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1692794826401929, "dur":5647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826407724, "dur":1177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826409002, "dur":2581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826411622, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826411840, "dur":1456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826413340, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692794826414962, "dur":96, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692794826413439, "dur":1677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826415231, "dur":1473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826416809, "dur":1622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826418527, "dur":3443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826422114, "dur":2552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826424794, "dur":1899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826426799, "dur":2052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826428884, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692794826428982, "dur":1792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826430812, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1692794826430946, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826432655, "dur":3454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1692794826436229, "dur":37752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826384160, "dur":4859, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692794826389027, "dur":514, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692794826389541, "dur":2576, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692794826393261, "dur":3766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1692794826397056, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692794826398827, "dur":161, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692794826397490, "dur":1514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1692794826399073, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692794826399505, "dur":1891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1692794826401432, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692794826401777, "dur":3066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826404874, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692794826405017, "dur":7473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826412594, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692794826413937, "dur":104, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692794826412701, "dur":1360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826414099, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Kuliah\\On Going\\Semester 7\\Agate Academy\\Matrikulasi\\Programmer\\Pinball\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826414096, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826414217, "dur":1163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826415497, "dur":1478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826417099, "dur":1590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826418723, "dur":184, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692794826418947, "dur":1068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826420140, "dur":1811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826422100, "dur":2485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826424703, "dur":1096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826425909, "dur":1052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826427060, "dur":2275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826429465, "dur":1371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826430953, "dur":1589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826432658, "dur":2856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826435634, "dur":3497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1692794826439327, "dur":2289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1692794826442908, "dur":181, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1692794826441736, "dur":1453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1692794826443291, "dur":1059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1692794826444427, "dur":29638, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826384350, "dur":4698, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826389052, "dur":517, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826389569, "dur":2580, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826392180, "dur":186, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826393387, "dur":3007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1692794826396559, "dur":1338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1692794826397964, "dur":230, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826398209, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826398539, "dur":1195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1692794826400081, "dur":12026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692794826412145, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826412285, "dur":1482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692794826413806, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826413913, "dur":2316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692794826416322, "dur":1958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692794826419867, "dur":793, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826418391, "dur":2308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692794826420740, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826420872, "dur":1961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692794826422864, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826423005, "dur":2395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692794826425458, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826425572, "dur":1516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692794826427127, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826427306, "dur":3687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692794826431030, "dur":235, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826431296, "dur":1274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692794826432679, "dur":2268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692794826445075, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1692794826435052, "dur":10105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1692794826445189, "dur":28857, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826384459, "dur":4598, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826389060, "dur":484, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826389544, "dur":2576, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826392151, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826394166, "dur":2502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1692794826396745, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826419282, "dur":1421, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826399315, "dur":22581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1692794826421937, "dur":361, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692794826422299, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826422944, "dur":2956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692794826425936, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826427573, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826426105, "dur":1609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692794826427757, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826430367, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826427982, "dur":2498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692794826430519, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826430662, "dur":3483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692794826434193, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826434394, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826434474, "dur":4934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1692794826439528, "dur":1063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1692794826440618, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826448995, "dur":88, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1692794826440738, "dur":8368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1692794826449161, "dur":24922, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826384531, "dur":4534, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826389069, "dur":456, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826389526, "dur":2593, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826393312, "dur":3697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1692794826397062, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826397427, "dur":1453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1692794826398947, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826399502, "dur":1138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1692794826400794, "dur":1165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball.exe" }}
+,{ "pid":12345, "tid":7, "ts":1692794826402151, "dur":4611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692794826406896, "dur":1034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692794826408041, "dur":1279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692794826409356, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826409477, "dur":1046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692794826410646, "dur":1880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692794826412597, "dur":229, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826412939, "dur":2424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692794826415504, "dur":1657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692794826417193, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826419748, "dur":1098, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826417323, "dur":4594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692794826421961, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826424192, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826422094, "dur":2189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692794826424327, "dur":512, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826434092, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826424869, "dur":9327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692794826434237, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826434406, "dur":120, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826434548, "dur":3356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1692794826438108, "dur":192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826442253, "dur":814, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826438362, "dur":4816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1692794826443216, "dur":193, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1692794826443473, "dur":5921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1692794826449421, "dur":24660, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826384598, "dur":4478, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826389076, "dur":431, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826389508, "dur":2640, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826392194, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826394343, "dur":1995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1692794826396479, "dur":1239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1692794826397872, "dur":1246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1692794826399181, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826399527, "dur":1217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1692794826401086, "dur":1998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1692794826403193, "dur":1300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826404621, "dur":3017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826407705, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826407817, "dur":1040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826408980, "dur":2257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826411338, "dur":2106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826413613, "dur":1378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826415026, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826415197, "dur":1867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826419480, "dur":1219, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826417170, "dur":3545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826420745, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826420977, "dur":1032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826422035, "dur":148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"H:\\Unity Editur\\2022.3.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826422033, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826422258, "dur":3810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826426105, "dur":249, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826426417, "dur":3098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826429546, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826429771, "dur":1875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826431678, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826431832, "dur":2980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826434843, "dur":256, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1692794826435127, "dur":1166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1692794826436404, "dur":3887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1692794826440550, "dur":1237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1692794826441906, "dur":3486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Kuliah/On Going/Semester 7/Agate Academy/Matrikulasi/Programmer/Games Build/Pinball_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1692794826445414, "dur":28633, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1692794826479757, "dur":58966, "ph":"X", "name": "ProfilerWriteOutput" }
+,
